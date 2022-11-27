@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.fabiencdp.conotes.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fabiencdp.conotes.MyBundle
 
 class MyProjectService(project: Project) {
 
